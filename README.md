@@ -6,10 +6,10 @@ PANEL FULL VERSION
 https://github.com/D1NFUCK3Rs/moth3r-panel/tree/master/img
 
 # ลิ้ง DEMO 
-http://demo.low-dns.ga:10489/
+http://demo.low-dns.ga:10387/
 
 # ลิ้ง ADMIN
-http://demo.low-dns.ga:10489/manage/admin
+http://demo.low-dns.ga:10387/manage/admin
 
 
 User : demo@dinfucker.com
